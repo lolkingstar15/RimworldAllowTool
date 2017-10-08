@@ -4,7 +4,7 @@
 	<JobDef>
 		<defName>FinishOffPawn</defName>
 		<driverClass>AllowTool.JobDriver_FinishOff</driverClass>
-		<reportString>Finishing off creature</reportString>
+		<reportString>Yaratığın işini bitirmek</reportString>
 		<alwaysShowWeapon>true</alwaysShowWeapon>
 		<casualInterruptible>false</casualInterruptible>
 	</JobDef>
